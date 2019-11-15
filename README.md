@@ -8,4 +8,4 @@ https://data.oecd.org/natincome/value-added-by-activity.htm
 
 Here are the results:
 
-![graph of global per-industry GDP](/graph.png?raw=true "Global per-industry GDP over time")
+<kbd>![graph of global per-industry GDP](/graph.png?raw=true "Global per-industry GDP over time")</kbd>
