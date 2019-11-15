@@ -1,4 +1,4 @@
-I want to get global per-industry GDP over time.
+I want to get global per activity GDP over time.
 
 I do this using OECD data:
 
