@@ -1,0 +1,4 @@
+I want to load some csv and import it into a google sheet.
+This will allow me to understand global GDP per industry.
+So I will have a hint about where to focus my energy.
+
