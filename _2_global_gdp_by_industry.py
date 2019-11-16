@@ -1,19 +1,13 @@
 import _0_parse_oecd
 
 # Global GDP by sector
-sector_by_year_to_gdp = _0_parse_oecd.get_sector_by_year_to_gdp()
+sector_info = _0_parse_oecd.SectorInfo()
+sector_by_year_by_country_to_gdp = sector_info.sector_by_year_by_country_to_gdp
 with open('out.csv', 'w') as f:
-  years = sector_by_year_to_gdp[sector_by_year_to_gdp.keys()[0]].keys()
+  years = range(sector_info.min_year, sector_info.max_year)
   f.write(','.join(['sector'] + [str(year) for year in years]) + '\n')
-  for sector in sector_by_year_to_gdp:
+  for sector in sector_by_year_by_country_to_gdp:
     val_strs = []
-    for year in sector_by_year_to_gdp[sector]:
-      val_strs.append(str(sector_by_year_to_gdp[sector][year]))
+    for year in sector_by_year_by_country_to_gdp[sector]:
+      val_strs.append(str(sum(sector_by_year_by_country_to_gdp[sector][year].values())))
     f.write('"{}",{}\n'.format(sector, ','.join(val_strs)))
-
-# Global GDP by country, energy sector
-sector_by_year_by_country_to_gdp = _0_parse_oecd.get_sector_by_year_by_country_to_gdp()
-country_to_gdp = sector_by_year_by_country_to_gdp['Industry, including energy'][2018]
-energy_gdp = sum(country_to_gdp.values())
-for country in sorted(country_to_gdp, key=lambda country: -country_to_gdp[country]):
-  print country, round(country_to_gdp[country] / energy_gdp, 2)
