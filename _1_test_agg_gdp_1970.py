@@ -5,8 +5,9 @@ country_by_year_to_gdp = sector_by_country_by_year_to_gdp['Agriculture, forestry
 gdp_agr_1980 = 0
 for country in country_by_year_to_gdp:
   gdp_agr_1980 += country_by_year_to_gdp[country][1980] * 10 ** 6
+my_result = gdp_agr_1980
 
-print('my_result: ${:,}'.format(int(gdp_agr_1980)))
+print('my_result: ${:,}'.format(int(my_result)))
 
 
 # --- OECD Manual calculation ---
@@ -51,6 +52,7 @@ country_to_agg_gdp_1980_usd = {
 oecd_result = sum(country_to_agg_gdp_1980_usd.values())
 print('oecd_result: ${:,}'.format(int(oecd_result)))
 
+assert abs(my_result - oecd_result) / oecd_result < .01
 
 # http://www.fao.org/fileadmin/templates/ess/documents/GDP/IND_NewsRelease_EN__27Apr2015_.pdf
 # $3.4 trillion

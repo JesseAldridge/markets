@@ -1,9 +1,9 @@
 import _0_parse_oecd
 
 sector_by_country_by_year_to_gdp = _0_parse_oecd.SectorInfo().sector_by_country_by_year_to_gdp
-sector = 'Services'
+sector = 'Agriculture, forestry, fishing'
 
-def services_gdp(year):
+def agg_gdp(year):
   gdp_services = 0
   for country in sector_by_country_by_year_to_gdp[sector]:
     year_to_gdp = sector_by_country_by_year_to_gdp[sector][country]
@@ -11,4 +11,4 @@ def services_gdp(year):
   print('GDP {}: ${:,}'.format(year, int(gdp_services)))
   return gdp_services
 
-assert services_gdp(2016) < services_gdp(2017) < services_gdp(2018)
+assert agg_gdp(2016) < agg_gdp(2017) < agg_gdp(2018)
