@@ -81,24 +81,30 @@ class SectorInfo(GDPTotalInfo):
 
   def __init__(self):
     super().__init__()
-    self.sector_by_country_by_year_to_gdp = {}
-    for country, year, percent_gdp, sector, _, _ in read_gdp_data('data/gdp-by-industry'):
+    to_gdp = self.sector_by_country_by_year_to_gdp = {}
+    to_gdp_percent = self.sector_by_country_by_year_to_gdp_percent = {}
+    for country, year, gdp_percent, sector, _, _ in read_gdp_data('data/gdp-by-industry'):
+      if sector in ('Services', 'Manufacturing'):
+        continue
       gdp_total = self.country_by_year_to_gdp_total[country][year]
-      gdp_sector = (percent_gdp / 100) * gdp_total
-      self.add_row(country, year, percent_gdp, sector, gdp_sector)
+      gdp_sector = (gdp_percent / 100) * gdp_total
+      self.store_value(country, year, sector, gdp_sector, to_gdp)
+      self.store_value(country, year, sector, gdp_percent, to_gdp_percent)
 
     # fill in missing values with previous value or zero if there is not previous value
     for sector in self.sector_by_country_by_year_to_gdp:
       for country in self.countries:
-        country_by_year_to_gdp = self.sector_by_country_by_year_to_gdp[sector]
-        country_by_year_to_gdp.setdefault(country, {})
-        self.fill_in_missing_years(country_by_year_to_gdp[country])
+        to_gdp = self.sector_by_country_by_year_to_gdp
+        to_gdp_percent = self.sector_by_country_by_year_to_gdp_percent
+        for dict_ in (to_gdp, to_gdp_percent):
+          dict_[sector].setdefault(country, {})
+          self.fill_in_missing_years(dict_[sector][country])
 
-  def add_row(self, country, year, percent_gdp, sector, gdp):
-    self.sector_by_country_by_year_to_gdp.setdefault(sector, {})
-    self.sector_by_country_by_year_to_gdp[sector].setdefault(country, {})
-    self.sector_by_country_by_year_to_gdp[sector][country].setdefault(year, 0)
-    self.sector_by_country_by_year_to_gdp[sector][country][year] += gdp
+  def store_value(self, country, year, sector, value, sector_by_country_by_year_to_value):
+    sector_by_country_by_year_to_value.setdefault(sector, {})
+    sector_by_country_by_year_to_value[sector].setdefault(country, {})
+    sector_by_country_by_year_to_value[sector][country].setdefault(year, 0)
+    sector_by_country_by_year_to_value[sector][country][year] += value
 
 def get_year_to_cpi():
   year_to_cpi = {}
