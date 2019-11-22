@@ -42,7 +42,7 @@ def read_oecp_csv(name, ignore=None):
 
 def read_gdp_data(path):
   return read_oecp_csv(path, ignore={
-    'LOCATION': ('EA', 'EA19', 'EU', 'OECDE', 'OECD'),
+    'LOCATION': ('EA', 'EA19', 'EU28',  'EU', 'OECDE', 'OECD'),
     'MEASURE': ('AGRWTH', 'USD_CAP'),
   })
 
