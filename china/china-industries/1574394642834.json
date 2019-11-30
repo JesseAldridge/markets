@@ -1,0 +1,607 @@
+{
+  "returncode": 200,
+  "returndata": {
+    "datanodes": [
+      {
+        "code": "zb.A03010L01_sj.2019C",
+        "data": {
+          "data": 1579.78091,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1,579.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L01",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L01_sj.2019B",
+        "data": {
+          "data": 1040.39854,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1,040.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L01",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L01_sj.2019A",
+        "data": {
+          "data": 536.34914,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "536.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L01",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019A",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L01_sj.2018D",
+        "data": {
+          "data": 2079.09242,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2,079.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L01",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018D",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L01_sj.2018C",
+        "data": {
+          "data": 1529.66359,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1,529.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L01",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L01_sj.2018B",
+        "data": {
+          "data": 1028.8193,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1,028.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L01",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L02_sj.2019C",
+        "data": {
+          "data": 100.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "100.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L02",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L02_sj.2019B",
+        "data": {
+          "data": 99.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "99.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L02",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L02_sj.2019A",
+        "data": {
+          "data": 98.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "98.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L02",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019A",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L02_sj.2018D",
+        "data": {
+          "data": 99.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "99.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L02",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018D",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L02_sj.2018C",
+        "data": {
+          "data": 99.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "99.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L02",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L02_sj.2018B",
+        "data": {
+          "data": 98.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "98.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L02",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L03_sj.2019C",
+        "data": {
+          "data": 2.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L03",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L03_sj.2019B",
+        "data": {
+          "data": 0.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "0.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L03",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L03_sj.2019A",
+        "data": {
+          "data": -0.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "-0.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L03",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019A",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L03_sj.2018D",
+        "data": {
+          "data": 0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "0.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L03",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018D",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L03_sj.2018C",
+        "data": {
+          "data": 0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "0.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L03",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L03_sj.2018B",
+        "data": {
+          "data": 0.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "0.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L03",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L04_sj.2019C",
+        "data": {
+          "data": -13.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "-13.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L04",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L04_sj.2019B",
+        "data": {
+          "data": 11.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L04",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L04_sj.2019A",
+        "data": {
+          "data": 26.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "26.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L04",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019A",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L04_sj.2018D",
+        "data": {
+          "data": 53.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "53.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L04",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018D",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L04_sj.2018C",
+        "data": {
+          "data": 16,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L04",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03010L04_sj.2018B",
+        "data": {
+          "data": 27.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "27.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A03010L04",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018B",
+            "wdcode": "sj"
+          }
+        ]
+      }
+    ],
+    "wdnodes": [
+      {
+        "nodes": [
+          {
+            "cname": "Sales of Acetylenogen (Calcium Carbide, 300 liter/kg), _Accumulated",
+            "code": "A03010L01",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "Sales of Acetylenogen (Calcium Carbide, 300 liter/kg), _Accumulated",
+            "nodesort": "1",
+            "sortcode": 207,
+            "tag": "",
+            "unit": "10000 tons"
+          },
+          {
+            "cname": "Proportion of Acetylenogen (Calcium Carbide, 300 liter/kg), _Accumulated",
+            "code": "A03010L02",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "Proportion of Acetylenogen (Calcium Carbide, 300 liter/kg), _Accumulated",
+            "nodesort": "1",
+            "sortcode": 208,
+            "tag": "",
+            "unit": "%"
+          },
+          {
+            "cname": "Proportion of Acetylenogen (Calcium Carbide, 300 liter/kg) Sold, Change _over the Same Period Preceding Year",
+            "code": "A03010L03",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "Proportion of Acetylenogen (Calcium Carbide, 300 liter/kg) Sold, Change _over the Same Period Preceding Year",
+            "nodesort": "1",
+            "sortcode": 209,
+            "tag": "",
+            "unit": "percentage point"
+          },
+          {
+            "cname": "Closing Inventory of Acetylenogen (Calcium Carbide, 300 liter/kg), Change over _Beginning of This Year",
+            "code": "A03010L04",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "Closing Inventory of Acetylenogen (Calcium Carbide, 300 liter/kg), Change over _Beginning of This Year",
+            "nodesort": "1",
+            "sortcode": 210,
+            "tag": "",
+            "unit": "%"
+          }
+        ],
+        "wdcode": "zb",
+        "wdname": "Indicators"
+      },
+      {
+        "nodes": [
+          {
+            "cname": "3Q 2019",
+            "code": "2019C",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "3Q 2019",
+            "nodesort": "1",
+            "sortcode": 3,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2Q 2019",
+            "code": "2019B",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2Q 2019",
+            "nodesort": "1",
+            "sortcode": 4,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "1Q 2019",
+            "code": "2019A",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "1Q 2019",
+            "nodesort": "1",
+            "sortcode": 5,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "4Q 2018",
+            "code": "2018D",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "4Q 2018",
+            "nodesort": "1",
+            "sortcode": 6,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "3Q 2018",
+            "code": "2018C",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "3Q 2018",
+            "nodesort": "1",
+            "sortcode": 7,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2Q 2018",
+            "code": "2018B",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2Q 2018",
+            "nodesort": "1",
+            "sortcode": 8,
+            "tag": "",
+            "unit": ""
+          }
+        ],
+        "wdcode": "sj",
+        "wdname": "Quarter"
+      }
+    ]
+  }
+}

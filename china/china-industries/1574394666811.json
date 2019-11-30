@@ -1,0 +1,607 @@
+{
+  "returncode": 200,
+  "returndata": {
+    "datanodes": [
+      {
+        "code": "zb.A03011401_sj.2019C",
+        "data": {
+          "data": 168466.724,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "168,466.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011401",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011401_sj.2019B",
+        "data": {
+          "data": 103477.40312,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "103,477.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011401",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011401_sj.2019A",
+        "data": {
+          "data": 39216.28832,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "39,216.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011401",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019A",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011401_sj.2018D",
+        "data": {
+          "data": 216870.28032,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "216,870.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011401",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018D",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011401_sj.2018C",
+        "data": {
+          "data": 157632.64265,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "157,632.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011401",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011401_sj.2018B",
+        "data": {
+          "data": 98444.15335,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "98,444.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011401",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011402_sj.2019C",
+        "data": {
+          "data": 99.8345943111,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "99.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011402",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011402_sj.2019B",
+        "data": {
+          "data": 99.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "99.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011402",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011402_sj.2019A",
+        "data": {
+          "data": 100.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "100.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011402",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019A",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011402_sj.2018D",
+        "data": {
+          "data": 99.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "99.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011402",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018D",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011402_sj.2018C",
+        "data": {
+          "data": 99.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "99.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011402",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011402_sj.2018B",
+        "data": {
+          "data": 98.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "98.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011402",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011403_sj.2019C",
+        "data": {
+          "data": 1.1250211837,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011403",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011403_sj.2019B",
+        "data": {
+          "data": 0.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "0.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011403",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011403_sj.2019A",
+        "data": {
+          "data": 0.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "0.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011403",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019A",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011403_sj.2018D",
+        "data": {
+          "data": -0.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "-0.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011403",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018D",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011403_sj.2018C",
+        "data": {
+          "data": -0.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "-0.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011403",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011403_sj.2018B",
+        "data": {
+          "data": -0.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "-0.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011403",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011404_sj.2019C",
+        "data": {
+          "data": 5.4355967011,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "5.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011404",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011404_sj.2019B",
+        "data": {
+          "data": 11.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011404",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011404_sj.2019A",
+        "data": {
+          "data": -2.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "-2.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011404",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019A",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011404_sj.2018D",
+        "data": {
+          "data": 7.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "7.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011404",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018D",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011404_sj.2018C",
+        "data": {
+          "data": 16,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011404",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011404_sj.2018B",
+        "data": {
+          "data": 16.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011404",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018B",
+            "wdcode": "sj"
+          }
+        ]
+      }
+    ],
+    "wdnodes": [
+      {
+        "nodes": [
+          {
+            "cname": "Sales of Cement, Accumulated",
+            "code": "A03011401",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "Sales of Cement, Accumulated",
+            "nodesort": "1",
+            "sortcode": 302,
+            "tag": "",
+            "unit": "10000 tons"
+          },
+          {
+            "cname": "Proportion of Cement Sold, _Accumulated",
+            "code": "A03011402",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "Proportion of Cement Sold, _Accumulated",
+            "nodesort": "1",
+            "sortcode": 303,
+            "tag": "",
+            "unit": "%"
+          },
+          {
+            "cname": "Proportion of Cement Sold, Change _over the Same Period Preceding Year",
+            "code": "A03011403",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "Proportion of Cement Sold, Change _over the Same Period Preceding Year",
+            "nodesort": "1",
+            "sortcode": 304,
+            "tag": "",
+            "unit": "percentage point"
+          },
+          {
+            "cname": "Closing Inventory of Cement, Change over Beginning of _This Year",
+            "code": "A03011404",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "Closing Inventory of Cement, Change over Beginning of _This Year",
+            "nodesort": "1",
+            "sortcode": 305,
+            "tag": "",
+            "unit": "%"
+          }
+        ],
+        "wdcode": "zb",
+        "wdname": "Indicators"
+      },
+      {
+        "nodes": [
+          {
+            "cname": "3Q 2019",
+            "code": "2019C",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "3Q 2019",
+            "nodesort": "1",
+            "sortcode": 3,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2Q 2019",
+            "code": "2019B",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2Q 2019",
+            "nodesort": "1",
+            "sortcode": 4,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "1Q 2019",
+            "code": "2019A",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "1Q 2019",
+            "nodesort": "1",
+            "sortcode": 5,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "4Q 2018",
+            "code": "2018D",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "4Q 2018",
+            "nodesort": "1",
+            "sortcode": 6,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "3Q 2018",
+            "code": "2018C",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "3Q 2018",
+            "nodesort": "1",
+            "sortcode": 7,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2Q 2018",
+            "code": "2018B",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2Q 2018",
+            "nodesort": "1",
+            "sortcode": 8,
+            "tag": "",
+            "unit": ""
+          }
+        ],
+        "wdcode": "sj",
+        "wdname": "Quarter"
+      }
+    ]
+  }
+}

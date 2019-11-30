@@ -1,0 +1,29 @@
+Data Source in SDW: http://sdw.ecb.europa.eu/browseTable.do?org.apache.struts.taglib.html.TOKEN=9108291100e9f221875644bbef2cba10&df=true&ec=&dc=&oc=&pb=&rc=&DATASET=0&removeItem=&removedItemList=&mergeFilter=&activeTab=MNA&showHide=&FREQ.249=A&COUNTERPART_AREA.249=W2&MAX_DOWNLOAD_SERIES=500&SERIES_MAX_NUM=50&node=bbn53&legendRef=reference
+,MNA.A.N.I8.W2.S1.S1.B.B1G._Z.A._Z.EUR_R_B1G.Y.GOY,MNA.A.N.I8.W2.S1.S1.B.B1G._Z.BTE._Z.EUR_R_B1G.Y.GOY,MNA.A.N.I8.W2.S1.S1.B.B1G._Z.F._Z.EUR_R_B1G.Y.GOY,MNA.A.N.I8.W2.S1.S1.B.B1G._Z.GTI._Z.EUR_R_B1G.Y.GOY,MNA.A.N.I8.W2.S1.S1.B.B1G._Z.J._Z.EUR_R_B1G.Y.GOY,MNA.A.N.I8.W2.S1.S1.B.B1G._Z.K._Z.EUR_R_B1G.Y.GOY,MNA.A.N.I8.W2.S1.S1.B.B1G._Z.L._Z.EUR_R_B1G.Y.GOY,MNA.A.N.I8.W2.S1.S1.B.B1G._Z.M_N._Z.EUR_R_B1G.Y.GOY,MNA.A.N.I8.W2.S1.S1.B.B1G._Z.OTQ._Z.EUR_R_B1G.Y.GOY,MNA.A.N.I8.W2.S1.S1.B.B1G._Z.RTU._Z.EUR_R_B1G.Y.GOY,MNA.A.N.I8.W2.S1.S1.B.B1G._Z._T._Z.EUR.LR.N
+,"Agriculture, forestry and fishing, Euro; ratio to gross value added, Previous year prices, Contribution to growth rate, over 1 year","Industry (except construction), Euro; ratio to gross value added, Previous year prices, Contribution to growth rate, over 1 year","Construction, Euro; ratio to gross value added, Previous year prices, Contribution to growth rate, over 1 year","Wholesale and retail trade, transport, accommodation and food service activities, Euro; ratio to gross value added, Previous year prices, Contribution to growth rate, over 1 year","Information and communication, Euro; ratio to gross value added, Previous year prices, Contribution to growth rate, over 1 year","Financial and insurance activities, Euro; ratio to gross value added, Previous year prices, Contribution to growth rate, over 1 year","Real estate activities, Euro; ratio to gross value added, Previous year prices, Contribution to growth rate, over 1 year","Professional, scientific and technical activities; administrative and support service activities, Euro; ratio to gross value added, Previous year prices, Contribution to growth rate, over 1 year","Public administration, defence, education, human health and social work activities, Euro; ratio to gross value added, Previous year prices, Contribution to growth rate, over 1 year","Arts, entertainment and recreation; other service activities; activities of household and extra-territorial organizations and bodies, Euro; ratio to gross value added, Previous year prices, Contribution to growth rate, over 1 year","Total - All activities, Euro, Chain linked volume (rebased), Non transformed data"
+Collection:,Summed through period (S),Summed through period (S),Summed through period (S),Summed through period (S),Summed through period (S),Summed through period (S),Summed through period (S),Summed through period (S),Summed through period (S),Summed through period (S),Summed through period (S)
+Period\Unit:,,,,,,,,,,,[Millions]
+2018,0.02,0.36,0.17,0.41,0.20,0.05,0.18,0.37,0.18,0.01,10065288.84
+2017,0.01,0.67,0.12,0.56,0.26,0.05,0.09,0.48,0.30,0.05,9872631.17
+2016,-0.03,0.58,0.09,0.37,0.19,-0.05,0.07,0.29,0.31,-0.00,9622817.53
+2015,0.01,0.61,0.03,0.46,0.15,-0.02,0.13,0.32,0.23,0.05,9450602.12
+2014,0.10,0.44,-0.04,0.33,0.18,-0.10,0.09,0.29,0.12,0.00,9267629.85
+2013,0.04,-0.14,-0.21,-0.14,0.11,-0.02,0.20,0.07,-0.01,-0.03,9139241.53
+2012,-0.06,-0.25,-0.30,-0.07,0.09,-0.06,0.06,-0.06,-0.02,-0.04,9151682.55
+2011,0.04,0.55,-0.17,0.42,0.21,0.04,0.25,0.24,0.19,0.02,9217461.78
+2010,-0.02,1.54,-0.29,0.21,0.07,0.09,0.08,0.21,0.21,0.01,9056520.17
+2009,0.00,-2.46,-0.45,-1.05,-0.05,-0.05,0.13,-0.72,0.23,-0.06,8868251.27
+2008,0.07,-0.40,-0.11,0.15,0.16,0.04,0.16,0.23,0.33,0.07,9284512.64
+2007,0.08,0.73,0.09,0.63,0.37,0.28,0.29,0.54,0.20,0.06,9222016.35
+2006,-0.01,0.79,0.22,0.69,0.33,0.17,0.29,0.43,0.21,0.11,8930164.76
+2005,-0.16,0.27,0.05,0.40,0.08,0.12,0.27,0.29,0.17,0.06,8650511.80
+2004,0.25,0.64,0.09,0.48,0.29,0.10,0.18,0.06,0.23,0.12,8517777.40
+2003,-0.09,0.14,0.05,0.24,-0.05,-0.19,0.20,0.11,0.17,-0.00,8315167.39
+2002,0.02,0.02,-0.00,0.12,0.30,-0.03,0.21,0.10,0.25,-0.01,8266398.47
+2001,-0.07,0.34,0.06,0.55,0.47,0.10,0.31,0.23,0.27,0.04,8185986.73
+2000,0.01,1.18,0.16,0.87,0.35,0.11,0.34,0.57,0.26,0.11,8002557.72
+1999,0.10,0.52,0.14,0.51,0.41,0.25,0.05,0.49,0.22,0.10,7698465.88
+1998,0.03,0.68,0.02,0.78,0.43,0.18,0.20,0.39,0.22,0.09,7489940.30
+1997,0.06,0.70,-0.05,0.65,0.33,0.13,0.22,0.25,0.25,0.06,7272424.09
+1996,,,,,,,,,,,7086863.63
+1995,,,,,,,,,,,6972740.22

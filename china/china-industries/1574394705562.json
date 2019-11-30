@@ -1,0 +1,607 @@
+{
+  "returncode": 200,
+  "returndata": {
+    "datanodes": [
+      {
+        "code": "zb.A03011X01_sj.2019C",
+        "data": {
+          "data": 24946.6608,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "24,946.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X01",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X01_sj.2019B",
+        "data": {
+          "data": 15635.7579,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "15,635.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X01",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X01_sj.2019A",
+        "data": {
+          "data": 7251.3668,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "7,251.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X01",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019A",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X01_sj.2018D",
+        "data": {
+          "data": 34807.4067,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "34,807.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X01",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018D",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X01_sj.2018C",
+        "data": {
+          "data": 25263.1907,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "25,263.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X01",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X01_sj.2018B",
+        "data": {
+          "data": 16408.8584,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16,408.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X01",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X02_sj.2019C",
+        "data": {
+          "data": 97.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "97.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X02",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X02_sj.2019B",
+        "data": {
+          "data": 100.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "100.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X02",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X02_sj.2019A",
+        "data": {
+          "data": 101,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "101.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X02",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019A",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X02_sj.2018D",
+        "data": {
+          "data": 98.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "98.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X02",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018D",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X02_sj.2018C",
+        "data": {
+          "data": 99.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "99.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X02",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X02_sj.2018B",
+        "data": {
+          "data": 99.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "99.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X02",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X03_sj.2019C",
+        "data": {
+          "data": 0.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "0.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X03",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X03_sj.2019B",
+        "data": {
+          "data": 1.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X03",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X03_sj.2019A",
+        "data": {
+          "data": 1.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X03",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019A",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X03_sj.2018D",
+        "data": {
+          "data": 0.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "0.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X03",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018D",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X03_sj.2018C",
+        "data": {
+          "data": -0.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "-0.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X03",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X03_sj.2018B",
+        "data": {
+          "data": -1.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "-1.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X03",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X04_sj.2019C",
+        "data": {
+          "data": 45.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "45.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X04",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X04_sj.2019B",
+        "data": {
+          "data": -3.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "-3.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X04",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019B",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X04_sj.2019A",
+        "data": {
+          "data": -2.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "-2.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X04",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2019A",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X04_sj.2018D",
+        "data": {
+          "data": 2.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X04",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018D",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X04_sj.2018C",
+        "data": {
+          "data": 8.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "8.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X04",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018C",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A03011X04_sj.2018B",
+        "data": {
+          "data": 1.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A03011X04",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "2018B",
+            "wdcode": "sj"
+          }
+        ]
+      }
+    ],
+    "wdnodes": [
+      {
+        "nodes": [
+          {
+            "cname": "Sales of Electronic Computers, Accumulated",
+            "code": "A03011X01",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "In 2008 and before, electronic computers only included large, medium and small computers. Since 2009, they've included computer workstations, microcomputers and notebook computers.",
+            "name": "Sales of Electronic Computers, Accumulated",
+            "nodesort": "1",
+            "sortcode": 447,
+            "tag": "",
+            "unit": "10000 sets"
+          },
+          {
+            "cname": "Proportion of Electronic Computers Sold, _Accumulated",
+            "code": "A03011X02",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "In 2008 and before, electronic computers only included large, medium and small computers. Since 2009, they've included computer workstations, microcomputers and notebook computers.",
+            "name": "Proportion of Electronic Computers Sold, _Accumulated",
+            "nodesort": "1",
+            "sortcode": 448,
+            "tag": "",
+            "unit": "%"
+          },
+          {
+            "cname": "Proportion of Electronic Computers Sold, Change _over the Same Period Preceding Year",
+            "code": "A03011X03",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "In 2008 and before, electronic computers only included large, medium and small computers. Since 2009, they've included computer workstations, microcomputers and notebook computers.",
+            "name": "Proportion of Electronic Computers Sold, Change _over the Same Period Preceding Year",
+            "nodesort": "1",
+            "sortcode": 449,
+            "tag": "",
+            "unit": "percentage point"
+          },
+          {
+            "cname": "Closing Inventory of Electronic Computers, Change over _Beginning of This Year",
+            "code": "A03011X04",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "In 2008 and before, electronic computers only included large, medium and small computers. Since 2009, they've included computer workstations, microcomputers and notebook computers.",
+            "name": "Closing Inventory of Electronic Computers, Change over _Beginning of This Year",
+            "nodesort": "1",
+            "sortcode": 450,
+            "tag": "",
+            "unit": "%"
+          }
+        ],
+        "wdcode": "zb",
+        "wdname": "Indicators"
+      },
+      {
+        "nodes": [
+          {
+            "cname": "3Q 2019",
+            "code": "2019C",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "3Q 2019",
+            "nodesort": "1",
+            "sortcode": 3,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2Q 2019",
+            "code": "2019B",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2Q 2019",
+            "nodesort": "1",
+            "sortcode": 4,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "1Q 2019",
+            "code": "2019A",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "1Q 2019",
+            "nodesort": "1",
+            "sortcode": 5,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "4Q 2018",
+            "code": "2018D",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "4Q 2018",
+            "nodesort": "1",
+            "sortcode": 6,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "3Q 2018",
+            "code": "2018C",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "3Q 2018",
+            "nodesort": "1",
+            "sortcode": 7,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2Q 2018",
+            "code": "2018B",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2Q 2018",
+            "nodesort": "1",
+            "sortcode": 8,
+            "tag": "",
+            "unit": ""
+          }
+        ],
+        "wdcode": "sj",
+        "wdname": "Quarter"
+      }
+    ]
+  }
+}
