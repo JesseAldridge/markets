@@ -1,6 +1,6 @@
 import csv, io
 
-def read_oecp_csv(name, ignore=None):
+def read_oecd_csv(name, ignore=None):
   if ignore is None:
     ignore = {}
 
@@ -41,7 +41,7 @@ def read_oecp_csv(name, ignore=None):
       )
 
 def read_gdp_data(path):
-  return read_oecp_csv(path, ignore={
+  return read_oecd_csv(path, ignore={
     'LOCATION': ('EA', 'EA19', 'EU28',  'EU', 'OECDE', 'OECD'),
     'MEASURE': ('AGRWTH', 'USD_CAP'),
   })
@@ -69,12 +69,12 @@ class GDPTotalInfo:
       year_to_gdp = self.country_by_year_to_gdp_total[country]
       self.fill_in_missing_years(year_to_gdp)
 
-  def fill_in_missing_years(self, year_to_gdp):
+  def is_missing_years(self, year_to_gdp):
     prev_year_val = None
     for year in range(self.min_year, self.max_year + 1):
       if year not in year_to_gdp:
-        year_to_gdp[year] = prev_year_val if prev_year_val is not None else 0
-      prev_year_val = year_to_gdp[year]
+        return False
+    return True
 
 class SectorInfo(GDPTotalInfo):
   # https://data.oecd.org/natincome/value-added-by-activity.htm
@@ -98,7 +98,8 @@ class SectorInfo(GDPTotalInfo):
         to_gdp_percent = self.sector_by_country_by_year_to_gdp_percent
         for dict_ in (to_gdp, to_gdp_percent):
           dict_[sector].setdefault(country, {})
-          self.fill_in_missing_years(dict_[sector][country])
+          if(self.is_missing_years(dict_[sector][country]))
+            del dict_[sector][country]
 
   def store_value(self, country, year, sector, value, sector_by_country_by_year_to_value):
     sector_by_country_by_year_to_value.setdefault(sector, {})
@@ -111,7 +112,7 @@ def get_year_to_cpi():
   ignore={
     'FREQUENCY': ('Q', 'M'),
   }
-  for location, year, value, subject, measure, frequency in read_oecp_csv('data/cpi', ignore):
+  for location, year, value, subject, measure, frequency in read_oecd_csv('data/cpi', ignore):
     if location == 'OECD' and subject == 'Total' and measure == 'IDX2015' and frequency == 'A':
       year_to_cpi[year] = value
   return year_to_cpi
