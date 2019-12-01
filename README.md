@@ -10,4 +10,4 @@ https://data.oecd.org/price/inflation-cpi.htm
 
 Here are the results:
 
-<kbd>![graph of global per-industry GDP](/graph.png?raw=true "Global per-industry GDP over time")</kbd>
+<kbd>![graph of global per-industry GDP](/oecd/graph.png?raw=true "Global per-industry GDP over time")</kbd>
