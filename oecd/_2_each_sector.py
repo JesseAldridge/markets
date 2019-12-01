@@ -31,7 +31,7 @@ for sector in sorted((
     sum_industry_gdp += gdp_2018(country)
 
   print('sector:', sector)
-  for country in sorted(country_by_year_to_gdp, key=gdp_2018, reverse=True)[:5]:
+  for country in sorted(country_by_year_to_gdp, key=gdp_2018, reverse=True)[:10]:
     country_percent_of_sector = country_by_year_to_gdp[country][2018] / sum_industry_gdp
 
     print(country, round(country_percent_of_sector, 2))
@@ -41,5 +41,5 @@ def gdp_total_2018(country):
 
 print()
 print('GDP by country:')
-for country in sorted(sector_info.countries, key=gdp_total_2018, reverse=True)[:5]:
+for country in sorted(sector_info.countries, key=gdp_total_2018, reverse=True)[:10]:
   print('{}, {:,}'.format(country, gdp_total_2018(country)))
