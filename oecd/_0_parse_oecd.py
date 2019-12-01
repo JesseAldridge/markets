@@ -84,8 +84,8 @@ class SectorInfo(GDPTotalInfo):
     to_gdp = self.sector_by_country_by_year_to_gdp = {}
     to_gdp_percent = self.sector_by_country_by_year_to_gdp_percent = {}
     for country, year, gdp_percent, sector, _, _ in read_gdp_data('data/gdp-by-industry'):
-      if sector in ('Services', 'Manufacturing'):
-        continue
+      # if sector in ('Services', 'Manufacturing'):
+      #   continue
       gdp_total = self.country_by_year_to_gdp_total[country][year]
       gdp_sector = (gdp_percent / 100) * gdp_total
       self.store_value(country, year, sector, gdp_sector, to_gdp)
