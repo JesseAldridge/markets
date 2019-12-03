@@ -1,4 +1,4 @@
-When one is deciding where to start a business, it might make sense to start by doing a top down analysis of the global economy. One approach is to start from Gross World Product and break it into a hierarchy of economic subsectors.
+When one is deciding where to start a business, it might make sense to start by doing a top-down analysis of the global economy. One approach is to start from Gross World Product and break it into a hierarchy of economic subsectors.
 
 I've started with OECD data:
 - https://data.oecd.org/gdp/gross-domestic-product-gdp.htm
