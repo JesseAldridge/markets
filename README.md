@@ -1,4 +1,4 @@
-I want to get global per activity GDP over time.
+When one is deciding where to start a business, it might make sense to start by doing a top down analysis of the global economy. One way to approach this is to start from Gross World Product and break it into a hierarchy of economic sectors.
 
 I do this using OECD data:
 
