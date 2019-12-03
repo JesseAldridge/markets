@@ -10,7 +10,8 @@ Here are the results:
 <kbd>![graph of global per-industry GDP](/oecd/graph.png?raw=true "Global per-industry GDP over time")</kbd>
 
 Note:
-There the OECD data is incomplete - many values are missing for various sectors from various countries at various time windows, as demonstrated in the graph below:
+
+The OECD data is incomplete - many values are missing for various sectors in various countries at various time intervals, as illustrated in the graph below:
 
 <kbd>![illustration of missing data](/oecd/missing-data.png?raw=true "Global per-industry GDP over time")</kbd>
 
