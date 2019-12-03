@@ -8,3 +8,10 @@ I do this using OECD data:
 Here are the results:
 
 <kbd>![graph of global per-industry GDP](/oecd/graph.png?raw=true "Global per-industry GDP over time")</kbd>
+
+Note:
+There the OECD data is incomplete - many values are missing for various sectors from various countries at various time windows, as demonstrated in the graph below:
+
+<kbd>![illustration of missing data](/oecd/missing-data.png?raw=true "Global per-industry GDP over time")</kbd>
+
+Missing data explains most most of the oddities in the graph (e.g. the flat lines prior to 1990 and the dip in 2018). Generally the values from 1990 to 2017 are fairly complete.
